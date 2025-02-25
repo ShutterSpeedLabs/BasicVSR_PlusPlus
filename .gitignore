@@ -131,3 +131,7 @@ mmedit/.mim
 
 # MacOS
 .DS_Store
+
+results/
+data/
+!data/**/*.txt
